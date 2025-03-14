@@ -39,7 +39,7 @@ Finalmente se ha generado el dashboard con los siguientes graficos y datos:
 - Tambien se han analizado los productos con mas ventas, el total de ventas por ciudad y mes y el grado de satisfaccion asociado a los diferentes productos
 - Finalmente se han generado filtros para poder analizar segun mes, ciudad y tipo de cliente.
 
-4. Conclusiones del análisis.
+5. Conclusiones del análisis.
 Tras analizar los datos se puede concluir que no hay diferencias significativas en las ventas de las diferentes ciudades, y que el perfil de compras es similar con todos los clientes.
 Si se percibe una ligera reduccion de las ventas en el mes de Febrero, quizas debido a alguna promocion especial en los otros meses o a una tendencia general de reduccion del consumo en ese mes que habria que analizar mas en detalle.
 Los productos con mejor valoración y que mas compras generaron fueron Fashion accessories y Food and beverages. Todas las valoraciones estan por encima de un 60%, pero habría que obtener mas información para saber como mejorar aun mas esta satisfacción del cliente
